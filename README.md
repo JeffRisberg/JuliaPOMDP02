@@ -1,8 +1,5 @@
 ### Partially Observable Markov Decision Processes in Julia, repo 02
 
-Uses UC Boulder version of POMDP library
+Contains classroom examples from how POMDPs.jl is taught at UC Colorado, Boulder.
 
-Based on talk at Julia Conf 2021
-
-
-
+Based on talk at JuliaCon 2021
